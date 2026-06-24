@@ -19,4 +19,8 @@ int main(){
     //TAB_imp_pre(arvorecopiada);
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6720d02993260359e91c5550dfbf0de561a3bed6
